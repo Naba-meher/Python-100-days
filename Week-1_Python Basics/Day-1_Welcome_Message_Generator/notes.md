@@ -14,4 +14,4 @@ print(f"Welcome, {name}!")
 ```
 
 ## Takeaway
-Use "input()" to get data and "print()" to display it.
+Use 'input()' to get data and "print()" to display it.
