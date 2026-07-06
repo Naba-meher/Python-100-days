@@ -1,0 +1,31 @@
+Pasta
+Ingredients: Pasta, Tomato Sauce, Cheese
+Instructions: Boil the pasta, add tomato sauce, mix well, and top with cheese.
+
+Grilled Sandwich
+Ingredients: Bread, Butter, Cheese, Tomato
+Instructions: Butter the bread, add cheese and tomato, then grill until golden brown.
+
+Fried Rice
+Ingredients: Rice, Vegetables, Soy Sauce, Oil
+Instructions: Stir-fry vegetables, add cooked rice, pour soy sauce, and cook for 5 minutes.
+
+Omelette
+Ingredients: Eggs, Onion, Salt, Pepper
+Instructions: Beat eggs, mix with chopped onion, season, and cook in a pan.
+
+Fruit Salad
+Ingredients: Apple, Banana, Orange, Grapes
+Instructions: Chop all fruits, mix them together, and serve fresh.
+
+Lemon Juice
+Ingredients: Lemon, Water, Sugar
+Instructions: Mix lemon juice, water, and sugar. Stir well and serve chilled.
+
+Pancakes
+Ingredients: Flour, Milk, Egg, Sugar
+Instructions: Mix all ingredients into a batter and cook on a hot pan until golden.
+
+Vegetable Soup
+Ingredients: Carrot, Potato, Onion, Water, Salt
+Instructions: Boil all vegetables until soft, season with salt, and serve hot.
